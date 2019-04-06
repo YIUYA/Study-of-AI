@@ -1,1 +1,2 @@
-# Study-of-AI
+# Initial page
+
